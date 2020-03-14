@@ -1,0 +1,38 @@
+body {
+	background-image: url(../img/body-background.png);
+	margin: 0;
+}
+
+h1 {
+	background-color: #ccc;
+	padding: 10px; 
+}
+h2 {
+	background-color: rgb(218, 210, 244);
+	color: rgb(89, 64, 255);
+	text-align: center;
+	padding: 15px;
+	font-weight: bold;
+}
+h3 {
+	border-bottom: 1px solid #000;
+}
+main {
+	width: 700px;
+	margin: 0 auto;
+
+}
+figure {
+	padding: 10px;
+	background-color: #ddc;
+	width: 550px;
+	display: inline-block;
+	text-align: center;
+}
+#foto-familia{
+	float: right;
+	width: 300px;
+}
+div{
+	
+}
